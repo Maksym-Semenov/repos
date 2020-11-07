@@ -1,0 +1,13 @@
+Z:\ProgramLessons\HomeWork_Repeat\bin\Debug\netcoreapp3.1\Math.exe
+Z:\ProgramLessons\HomeWork_Repeat\bin\Debug\netcoreapp3.1\Math.deps.json
+Z:\ProgramLessons\HomeWork_Repeat\bin\Debug\netcoreapp3.1\Math.runtimeconfig.json
+Z:\ProgramLessons\HomeWork_Repeat\bin\Debug\netcoreapp3.1\Math.runtimeconfig.dev.json
+Z:\ProgramLessons\HomeWork_Repeat\bin\Debug\netcoreapp3.1\Math.dll
+Z:\ProgramLessons\HomeWork_Repeat\bin\Debug\netcoreapp3.1\Math.pdb
+Z:\ProgramLessons\HomeWork_Repeat\obj\Debug\netcoreapp3.1\Math.csprojAssemblyReference.cache
+Z:\ProgramLessons\HomeWork_Repeat\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+Z:\ProgramLessons\HomeWork_Repeat\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+Z:\ProgramLessons\HomeWork_Repeat\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+Z:\ProgramLessons\HomeWork_Repeat\obj\Debug\netcoreapp3.1\Math.dll
+Z:\ProgramLessons\HomeWork_Repeat\obj\Debug\netcoreapp3.1\Math.pdb
+Z:\ProgramLessons\HomeWork_Repeat\obj\Debug\netcoreapp3.1\Math.genruntimeconfig.cache
